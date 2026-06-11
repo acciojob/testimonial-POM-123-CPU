@@ -14,8 +14,8 @@ margin-top:20px;
 text-align:right;
 	font-style:italic;
 }
-.maincontainer{
+h1{
 font-size:40px;
-	font-style:bold;
+	font-weight:bold;
 	padding:20px;
 }
